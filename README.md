@@ -2,18 +2,11 @@
 
 Atualmente estou estudando JavaScript, React, Redux, Context API e React Hooks.
 
-<style type="text/css">
-  .boneca { float: left  }
-</style>
-<div align="center">
-  <div align="left">
-    <a href="https://github.com/lorenepecci">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenepecci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenepecci&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
-  <div class="boneca" align="right">
-    <img src='boneca.png' alt="bonecaimg" width="200" height="200"/>
-  </div>
+<div style="display: inline_block">
+    <a align="center" href="https://github.com/lorenepecci">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenepecci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenepecci&layout=compact&langs_count=7&theme=dracula">
+    <img  align="right" src='boneca.png' alt="bonecaimg" width="200" height="200" style="border-radius:50px;">
 </div>
 
 <div style="display: inline_block"><br>
