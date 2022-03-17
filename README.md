@@ -1,5 +1,5 @@
 ### Olá, eu sou a Lorene, tudo bem? 👋
-##Estou em transição de área, saindo da Engenharia Química e migrando para o Desenvolvimento Web. Atualmente estou estudando JavaScript, React, Redux, Context API e React Hooks.
+Estou em transição de área, saindo da Engenharia Química e migrando para o Desenvolvimento Web. Atualmente estou estudando JavaScript, React, Redux, Context API e React Hooks.
 
 <div align="center">
   <a href="https://github.com/lorenepecci">
