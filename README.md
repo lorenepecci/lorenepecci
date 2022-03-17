@@ -1,5 +1,7 @@
 ### Olá, eu sou a Lorene, tudo bem? 👋
-Estou em transição de área, saindo da Engenharia Química e migrando para o Desenvolvimento Web. Atualmente estou estudando JavaScript, React, Redux, Context API e React Hooks.
+
+Atualmente estou estudando JavaScript, React, Redux, Context API e React Hooks.
+<img src='boneca.png' alt="bonecaimg"/>
 
 <div align="center">
   <a href="https://github.com/lorenepecci">
@@ -21,7 +23,6 @@ Estou em transição de área, saindo da Engenharia Química e migrando para o D
 <div> 
   <a href="https://instagram.com/lorenepecci" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lorenepecci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lorene-pecci-9b9078138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lorene-pecci-9b9078138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
-
