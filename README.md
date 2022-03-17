@@ -17,7 +17,8 @@ Atualmente estou estudando JavaScript, React, Redux, Context API e React Hooks.
   <img  align="right" src='boneca.png' alt="bonecaimg" width="200" height="200" style="border-radius:50px;">
 </div>
 
-##
+&nbsp;
+###
 
 <div> 
   <a href="https://instagram.com/lorenepecci" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
