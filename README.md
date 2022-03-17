@@ -17,7 +17,6 @@ Atualmente estou estudando JavaScript, React, Redux, Context API e React Hooks.
   <img  align="right" src='boneca.png' alt="bonecaimg" width="200" height="200" style="border-radius:50px;">
 </div>
 
-#
 ##
 
 <div> 
