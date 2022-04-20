@@ -1,7 +1,7 @@
 ### Olá, eu sou a Lorene, tudo bem? 👋
 
 **Linguagens:** JavaScript, Python e C# <br />
-**Manipulação de Dados:** SQL, NoSQL, bibliotecas Python para ML, PowerBI<br />
+**Manipulação de Dados:** SQL, NoSQL, bibliotecas Python de Machine Learning, PowerBI<br />
 **Testes:** Testes Unitários (Jest), Testes de Integraçao (RTL)<br />
 **Desenvolvimento Front-End:** HTML, CSS, DOM, Higher Order Functions, React, Context API, Redux, React
 Hooks<br />
