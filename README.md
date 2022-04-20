@@ -5,7 +5,7 @@
 **Testes:** Testes Unitários (Jest), Testes de Integraçao (RTL)<br />
 **Desenvolvimento Front-End:** HTML, CSS, DOM, Higher Order Functions, React, Context API, Redux, React
 Hooks<br />
-**Desenvolvimento Back-End >: Node <br />
+**Desenvolvimento Back-End:** Node <br />
 **Ferramentas:** Docker, git, gitHub<br />
 
 <div align="center">
