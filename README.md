@@ -1,13 +1,13 @@
 ### Olá, eu sou a Lorene, tudo bem? 👋
 
 ##### Principais Tecnologias: 
-< Linguagens >: Python, JavaScript e C# <br />
-< Manipulação de Dados >: SQL, NoSQL, Jupyter Notebook, PowerBI<br />
-< Testes >: Testes Unitários (Jest), Testes de Integraçao (RTL)<br />
-< Desenvolvimento Front-End >: HTML, CSS, DOM, Higher Order Functions, React, Context API, Redux, React<br />
-Hooks
-< Desenvolvimento Back-End >: Node <br />
-< Ferramentas >: Docker, git, gitHub<br />
+**Linguagens:** Python, JavaScript e C# <br />
+**Manipulação de Dados:** SQL, NoSQL, Jupyter Notebook, PowerBI<br />
+**Testes:** Testes Unitários (Jest), Testes de Integraçao (RTL)<br />
+**Desenvolvimento Front-End:** HTML, CSS, DOM, Higher Order Functions, React, Context API, Redux, React
+Hooks<br />
+**Desenvolvimento Back-End >: Node <br />
+**Ferramentas:** Docker, git, gitHub<br />
 
 <div align="center">
     <a align="center" href="https://github.com/lorenepecci">
