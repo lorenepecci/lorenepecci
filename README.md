@@ -3,10 +3,9 @@
 **Linguagens:** JavaScript, Python e C# <br />
 **Front-End:** HTML, CSS, DOM, Higher Order Functions, React, Context API, Redux, React
 Hooks<br />
-**Back-End:** Node <br />
+**Back-End:** SQL, NoSQL, Node <br />
 **Testes:** Testes Unitários (Jest), Testes de Integraçao (RTL)<br />
 **Outras Ferramentas:** Docker, git, gitHub<br />
-**Manipulação de Dados:** SQL, NoSQL, bibliotecas Python de Machine Learning, PowerBI<br />
 
 <div align="center">
     <a align="center" href="https://github.com/lorenepecci">
