@@ -1,6 +1,13 @@
 ### Olá, eu sou a Lorene, tudo bem? 👋
 
-Atualmente estou estudando JavaScript, React, Redux, Context API e React Hooks.
+##### Principais Tecnologias: 
+< Linguagens >: Python, JavaScript e C#
+< Manipulação de Dados >: SQL, NoSQL, Jupyter Notebook, PowerBI
+< Testes >: Testes Unitários (Jest), Testes de Integraçao (RTL)
+< Desenvolvimento Front-End >: HTML, CSS, DOM, Higher Order Functions, React, Context API, Redux, React
+Hooks
+< Desenvolvimento Back-End >: Node 
+< Ferramentas >: Docker, git, gitHub
 
 <div align="center">
     <a align="center" href="https://github.com/lorenepecci">
