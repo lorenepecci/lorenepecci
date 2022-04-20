@@ -1,6 +1,5 @@
 ### Olá, eu sou a Lorene, tudo bem? 👋
 
-### Minhas Principais Tecnologias: 
 **Linguagens:** Python, JavaScript e C# <br />
 **Manipulação de Dados:** SQL, NoSQL, Jupyter Notebook, PowerBI<br />
 **Testes:** Testes Unitários (Jest), Testes de Integraçao (RTL)<br />
