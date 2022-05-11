@@ -1,11 +1,11 @@
-### Olá, eu sou a Lorene, tudo bem? 👋
+#### Olá, me chamo Lorene, sou paulista e resido em Ponta Grossa, Paraná(BR), e atualmente estou estudando desenvolvimento de software na Trybe 👋
 
-**Linguagens:** JavaScript, Python e C# <br />
+**Linguagens:** JavaScript(intermediário), Python(intermediário) e C#(básico) <br />
 **Front-End:** HTML, CSS, DOM, Higher Order Functions, React, Context API, Redux, React
 Hooks<br />
-**Back-End:** SQL, NoSQL, Node <br />
+**Back-End:** SQL, NoSQL, Node.js <br />
 **Testes:** Testes Unitários (Jest), Testes de Integraçao (RTL)<br />
-**Outras Ferramentas:** Docker, git, gitHub<br />
+**Outras Ferramentas:** Docker, git <br />
 
 <div align="center">
     <a align="center" href="https://github.com/lorenepecci">
