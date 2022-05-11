@@ -1,6 +1,7 @@
-#### Olá, me chamo Lorene, sou paulista e resido em Ponta Grossa, Paraná(BR), e atualmente estou estudando desenvolvimento de software na Trybe 👋
+#### Olá, me chamo Lorene, sou paulista e resido em Ponta Grossa, Paraná(BR).
+#### Atualmente estou estudando desenvolvimento de software na Trybe 👋
 
-##### Aqui estão algumas das tecnologias que eu estou aprendendo: 
+#### Aqui estão algumas das tecnologias que eu estou aprendendo: 
 **Linguagens:** JavaScript(intermediário), Python(intermediário) e C#(básico) <br />
 **Front-End:** HTML, CSS, DOM, Higher Order Functions, React, Context API, Redux, React
 Hooks<br />
