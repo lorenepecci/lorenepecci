@@ -1,5 +1,5 @@
 #### Olá, eu sou a Lorene 👋
-##### Apaixonada por tecnologia e inovação, me encontrei na área da programação. Fiz alguns projetos de inteligência artificial, e posteriormente me aproximei do universo de desenvolvimento web. 
+
 #### Atualmente estou estudando desenvolvimento de software na Trybe e aqui estão algumas das tecnologias que eu estou aprendendo: 
 **Linguagens:** JavaScript(intermediário), Python(intermediário) e C#(básico) <br />
 **Front-End:** HTML, CSS, DOM, Higher Order Functions, React, Context API, Redux, React
