@@ -1,6 +1,6 @@
 #### Olá, eu sou a Lorene 👋
 
-#### Atualmente estou estudando desenvolvimento de software na Trybe e aqui estão algumas das tecnologias que eu estou aprendendo: 
+#### Atualmente sou estudante de desenvolvimento de software na Trybe e aqui estão algumas das tecnologias que eu estou aprendendo: 
 **Linguagens:** JavaScript(intermediário), Python(intermediário) e C#(básico) <br />
 **Front-End:** HTML, CSS, DOM, Higher Order Functions, React, Context API, Redux, React
 Hooks<br />
