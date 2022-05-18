@@ -1,4 +1,4 @@
-#### Olá, eu sou a Lorene 👋
+#### Olá, eu sou a Lorene e eu adoro construir soluções! 👋
 
 #### Atualmente sou estudante de desenvolvimento de software na Trybe e aqui estão algumas das tecnologias que eu estou aprendendo: 
 **Linguagens:** JavaScript(intermediário), Python(intermediário) e C#(básico) <br />
