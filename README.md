@@ -5,7 +5,7 @@
 **Front-End:** HTML, CSS, DOM, Higher Order Functions, React, Context API, Redux, React
 Hooks<br />
 **Back-End:** SQL, NoSQL, Node.js <br />
-**Testes:** Testes Unitários (Jest), Testes de Integraçao (RTL)<br />
+**Testes:** Testes Unitários e de Integraçao com Jest, RTL, Mocha, Chai, Sinon <br />
 **Outras Ferramentas:** Docker, git <br />
 
 <div align="center">
