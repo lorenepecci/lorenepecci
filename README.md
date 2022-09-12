@@ -1,6 +1,6 @@
 #### Olá, eu sou a Lorene e eu adoro construir soluções! 👋
 
-### Atualmente sou estudante de c#
+### Atualmente estou estudando c# e .NET
 #### Algumas tecnologias que já estudei:
 **Linguagens:** JavaScript(intermediário), Python(básico) e C#(básico) <br />
 **Front-End:** HTML, CSS, DOM, Higher Order Functions, React, Context API, Redux, React
