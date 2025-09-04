@@ -1,14 +1,26 @@
 #### Olá, eu sou a Lorene e eu adoro construir soluções! 👋
 
-### Desenvolvedora c# e .NET, React, Typescript
-#### Tecnologias 
-● Languages & Frameworks: C#, .NET Core, Node.js, TypeScript, JavaScript, React
-● Databases & Data Storage: SQL Server, Oracle, MongoDB, Redis, Dapper
-● Messaging & Streaming: Kafka, RabbitMQ, MassTransit
-● DevOps & Orchestration: Azure, Azure DevOps, GitHub Actions, Docker, Kubernetes, CI/CD, Helm, Keda, Blue/Green & Canary Deployments
-● Testing & Quality Assurance: Testing & Quality Assurance: xUnit, NUnit, SpecFlow, Playwright, Cypress, NSubstitute, Moq, K6
-● Monitoring & Observability: Dynatrace, Datadog, OpenTelemetry, Grafana, Elasticsearch
+### Desenvolvedora C# e .NET, React, TypeScript
 
+#### Tecnologias
+
+**Languages & Frameworks:**  
+C#, .NET Core, Node.js, TypeScript, JavaScript, React
+
+**Databases & Data Storage:**  
+SQL Server, Oracle, MongoDB, Redis, Dapper
+
+**Messaging & Streaming:**  
+Kafka, RabbitMQ, MassTransit
+
+**DevOps & Orchestration:**  
+Azure, Azure DevOps, GitHub Actions, Docker, Kubernetes, CI/CD, Helm, Keda, Blue/Green & Canary Deployments
+
+**Testing & Quality Assurance:**  
+xUnit, NUnit, SpecFlow, Playwright, Cypress, NSubstitute, Moq, K6
+
+**Monitoring & Observability:**  
+Dynatrace, Datadog, OpenTelemetry, Grafana, Elasticsearch
 
 <div align="center">
     <a align="center" href="https://github.com/lorenepecci">
