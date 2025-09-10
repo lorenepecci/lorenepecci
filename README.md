@@ -1,8 +1,7 @@
-#### Olá, eu sou a Lorene e eu adoro construir soluções! 👋
+# Hi, I'm Lorene 👋
+I'm a C# & .NET Developer passionate about building scalable and high-performance solutions!
 
-### Desenvolvedora C# e .NET, React, TypeScript
-
-#### Tecnologias
+## 💻 Tech Stack
 
 **Languages & Frameworks:**  
 C#, .NET Core, Node.js, TypeScript, JavaScript, React
@@ -16,36 +15,23 @@ Kafka, RabbitMQ, MassTransit
 **DevOps & Orchestration:**  
 Azure, Azure DevOps, GitHub Actions, Docker, Kubernetes, CI/CD, Helm, Keda, Blue/Green & Canary Deployments
 
-**Testing & Quality Assurance:**  
+**Testing & QA:**  
 xUnit, NUnit, SpecFlow, Playwright, Cypress, NSubstitute, Moq, K6
 
 **Monitoring & Observability:**  
 Dynatrace, Datadog, OpenTelemetry, Grafana, Elasticsearch
 
-##
+---
 
-<br>
-<div style="display: inline_block"><br>
-  <img align="left" alt="Lore-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="Lore-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="left" alt="Lore-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="Lore-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="Lore-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" alt="Lore-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="30"/> 
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/>
-    <img  align="right" src='boneca.png' alt="bonecaimg" width="200" height="200" style="border-radius:50px;">
-</div>
+## 🔗 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorene-pecci-9b9078138/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenepecci@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lorenepecci)
 
+---
 
-<br>
+## 🚀 Projects
+Check out my repositories for **C#/.NET, microservices, React, and full-stack projects**!
 
-##
-
-<div> 
-  <a href="https://instagram.com/lorenepecci" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lorenepecci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lorene-pecci-9b9078138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-</div>
+- [GitHub Profile](https://github.com/lorenepecci)  
