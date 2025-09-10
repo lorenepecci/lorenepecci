@@ -1,5 +1,5 @@
 # Hi, I'm Lorene 👋
-I'm a C# & .NET Developer passionate about building scalable and high-performance solutions!
+I'm a Full-Stack Developer specializing in C# & .NET, with experience building scalable, high-performance web applications using React and TypeScript.
 
 ## 💻 Tech Stack
 
